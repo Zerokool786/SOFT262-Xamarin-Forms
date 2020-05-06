@@ -1,0 +1,14 @@
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\bin\Debug\netstandard2.0\Flashcards(Ver 1).deps.json
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\bin\Debug\netstandard2.0\Flashcards(Ver 1).dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\bin\Debug\netstandard2.0\ref\Flashcards(Ver 1).dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\bin\Debug\netstandard2.0\Flashcards(Ver 1).pdb
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\Flashcards(Ver 1).csprojAssemblyReference.cache
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\Flashcards(Ver 1).csproj.CoreCompileInputs.cache
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\Flashcards(Ver 1).AssemblyInfoInputs.cache
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\Flashcards(Ver 1).AssemblyInfo.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\Flashcards(Ver 1).dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\ref\Flashcards(Ver 1).dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\Flashcards(Ver 1)\Flashcards(Ver 1)\Flashcards(Ver 1)\obj\Debug\netstandard2.0\Flashcards(Ver 1).pdb

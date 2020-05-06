@@ -1,0 +1,15 @@
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\bin\Debug\netstandard2.0\GridLayoutXamarin.deps.json
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\bin\Debug\netstandard2.0\GridLayoutXamarin.dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\bin\Debug\netstandard2.0\ref\GridLayoutXamarin.dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\bin\Debug\netstandard2.0\GridLayoutXamarin.pdb
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayoutXamarin.csprojAssemblyReference.cache
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayout.xaml.g.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayoutXamarin.csproj.CoreCompileInputs.cache
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayoutXamarin.AssemblyInfoInputs.cache
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayoutXamarin.AssemblyInfo.cs
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayoutXamarin.dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\ref\GridLayoutXamarin.dll
+C:\Users\roxer\Documents\GitHub\SOFT262\SOFT262-Xamarin-Forms\GridLayoutXamarin\GridLayoutXamarin\GridLayoutXamarin\obj\Debug\netstandard2.0\GridLayoutXamarin.pdb
